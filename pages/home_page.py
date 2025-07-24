@@ -8,5 +8,4 @@ class HomePage:
         self.driver.get("https://the-internet.herokuapp.com/")
 
     def abtest_btn(self):
-        abt_btn = self.driver.find_element(By.LINK_TEXT, "A/B Testing")
-        abt_btn.click()
+        self.driver.find_element(By.LINK_TEXT, "A/B Testing").click()

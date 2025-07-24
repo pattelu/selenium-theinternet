@@ -10,4 +10,4 @@ def test_abtest(chrome_browser):
     abtest_page = ABtestPage(chrome_browser)
     header_title = abtest_page.header_title
 
-    assert header_title in ["A/B Test Control", "A/B Test Variation 1"]
+    assert header_title in ["A/B Test Control", "A/B Test Variation 1"], "User was not navigated to one of two variant of the page."
