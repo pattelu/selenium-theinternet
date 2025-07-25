@@ -1,5 +1,5 @@
 import pytest
-from pages.addremove_page import AddRemovePage
+from pages.add_remove_page import AddRemovePage
 from selenium.webdriver.common.by import By
 import time
 
