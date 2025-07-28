@@ -8,11 +8,11 @@ Selenium tests in Python for the-internet: https://the-internet.herokuapp.com/
 |Broken Images                  |✅|
 |Challenging DOM                ||
 |Checkboxes                     |✅|
-|Context Menu                   ||
+|Context Menu                   |✅|
 |Digest Authentication          ||
 |Disappearing Elements          ||
 |Drag and Drop                  ||
-|Dropdown                       ||
+|Dropdown                       |✅|
 |Dynamic Content                ||
 |Dynamic Controls               ||
 |Dynamic Loading                ||
