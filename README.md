@@ -10,8 +10,8 @@ Selenium tests in Python for the-internet: https://the-internet.herokuapp.com/
 |Checkboxes                     |✅|
 |Context Menu                   |✅|
 |Digest Authentication          ||
-|Disappearing Elements          ||
-|Drag and Drop                  ||
+|Disappearing Elements          |✅|
+|Drag and Drop                  |✅|
 |Dropdown                       |✅|
 |Dynamic Content                ||
 |Dynamic Controls               ||
