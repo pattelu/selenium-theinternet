@@ -1,5 +1,4 @@
 from pages.checkboxes_page import CheckboxesPage
-import time
 
 def test_checbox_selected(chrome_browser):
     chb_page = CheckboxesPage(chrome_browser)

@@ -1,8 +1,6 @@
 import pytest
 from pages.add_remove_page import AddRemovePage
 from selenium.webdriver.common.by import By
-import time
-
 
 def test_add_element(chrome_browser):
     ar_page = AddRemovePage(chrome_browser)

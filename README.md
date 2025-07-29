@@ -43,6 +43,6 @@ Selenium tests in Python for the-internet: https://the-internet.herokuapp.com/
 |Shifting Content               ||
 |Slow Resources                 ||
 |Sortable Data Tables           ||
-|Status Codes                   ||
-|Typos                          ||
+|Status Codes                   |✅|
+|Typos                          |✅|
 |WYSIWYG Editor                 ||
