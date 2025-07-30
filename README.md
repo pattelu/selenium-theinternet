@@ -16,7 +16,7 @@ Selenium tests in Python for the-internet: https://the-internet.herokuapp.com/
 |Dynamic Content                ||
 |Dynamic Controls               ||
 |Dynamic Loading                ||
-|Entry Ad                       ||
+|Entry Ad                       |✅|
 |Exit Intent                    ||
 |File Download                  ||
 |File Upload                    ||
